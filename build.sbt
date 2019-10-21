@@ -26,7 +26,7 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "3.0.8" % Test
 )
 
-val circeVersion = "0.12.0-M3"
+val circeVersion = "0.12.2"
 
 libraryDependencies ++= Seq(
   "io.circe" %% "circe-core",
