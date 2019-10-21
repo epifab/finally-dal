@@ -22,7 +22,7 @@ Global / scalacOptions ++= Seq(
 libraryDependencies ++= Seq(
   "org.typelevel" %% "cats-core" % "2.0.0-M4",
   "com.chuusai" %% "shapeless" % "2.3.3",
-  "org.postgresql" % "postgresql" % "42.2.2",
+  "org.postgresql" % "postgresql" % "42.2.8",
   "org.scalatest" %% "scalatest" % "3.0.8" % Test
 )
 
