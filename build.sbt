@@ -35,8 +35,8 @@ libraryDependencies ++= Seq(
 ).map(_ % circeVersion)
 
 libraryDependencies ++= Seq(
-  "org.slf4j" % "slf4j-simple" % "1.7.22",
-  "org.slf4j" % "slf4j-api" % "1.7.22",
+  "org.slf4j" % "slf4j-simple" % "1.7.28",
+  "org.slf4j" % "slf4j-api" % "1.7.28",
   // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
   "ch.qos.logback" % "logback-core" % "1.1.7",
   "ch.qos.logback" % "logback-classic" % "1.1.7"
